@@ -12,4 +12,7 @@ Não pretendo desistir. vou continuar até encontrar um caminho para iniciar. Se
 ## day 02
 
 Iniciando mais um dia. Aprendi usar markdown pra documentar o readme e este meu diário. Vamos continuar. Ainda não consegui instalar o Github Desktop, minha máquina não funciona o .NET Framework. Mas vou fazendo pela web mesmo.  
-Continuando curso (20hs) de Git GitHub, aprendendo Commit, Clone, Fork e Issue.
+Continuando curso (20hs) de Git GitHub, aprendendo Commit, Clone, Fork e Issue.  
+Verifiquei os arquivos dentro da pasta xhelpers-api fornecida. Abri toda no VSCode. Encontrei bastante coisa em Js, e alguns arquivos e referências que não compreendi muito. Tem muitas pastas e está tudo documentado. Mas não há executável (pelo menos não que eu saiba executar...) e não compreendi exatamente onde o Blog deve ser criado, qual site ou servidor, será que eu devo criar este Blog online e depois criar o cliente e usar a API ou será que devo usar um Blog existente?  
+Vou consultar um pouco mais os arquivos e o readme para verificar qual o Blog. Deve haver uma URL.  
+Ainda estou preocupado com o nível que este exercício exige. Parece que está muito além de meus conhecimentos. Se este for o caso, vou tentar começar pelo cliente, mesmo que não se comunique com a API.
