@@ -12,4 +12,4 @@ Não pretendo desistir. vou continuar até encontrar um caminho para iniciar. Se
 ## day 02
 
 Iniciando mais um dia. Aprendi usar markdown pra documentar o readme e este meu diário. Vamos continuar. Ainda não consegui instalar o Github Desktop, minha máquina não funciona o .NET Framework. Mas vou fazendo pela web mesmo.  
-
+Continuando curso (20hs) de Git GitHub, aprendendo Commit, Clone, Fork e Issue.
