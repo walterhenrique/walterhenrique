@@ -22,3 +22,6 @@ Ainda estou preocupado com o nível que este exercício exige. Parece que está 
 Sábado começou, vamos continuar. Parei o GitHub um pouco pois já consegui o que é necessário por enquanto. Terminarei as aulas posteiormente.  
 Foco agora será o Blog (que eu ja deveria ter pelo menos uma parte pronta...). Então estou iniciando o CSS dele. Já o HTML deixei só a estrutura basica e configuraçao, depois continuo. JS será um desafio a parte, já que sou muito iniciante ainda nisso. Mas vamos lá. Quero pelo menos ter o blog pronto, mesmo que sem a API por enquanto.  
 Como não foi possível instalar Github no meu computador velho, vou subir estes códigos hoje manualmente via navegador e atualizarei diariamente.  
+A estrutura do HTML está semi-pronta. O CSS ainda depende de algumas alterações para ficar com qualidade. Contudo, consumir uma API ainda é algo que está além da minha compreensão. Sou bastante novato em JavaScript e ainda estou estudando a parte inicial dele.  
+Vou continuar criando porque só ter medo do amanhã não vai dar certo.  
+Agora pretendo pesquisar um pouco sobre API. Nos próximos dias vou terminar a parte de criação do BLOG no HTML.  
