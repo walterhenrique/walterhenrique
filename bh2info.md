@@ -25,3 +25,11 @@ Como não foi possível instalar Github no meu computador velho, vou subir estes
 A estrutura do HTML está semi-pronta. O CSS ainda depende de algumas alterações para ficar com qualidade. Contudo, consumir uma API ainda é algo que está além da minha compreensão. Sou bastante novato em JavaScript e ainda estou estudando a parte inicial dele.  
 Vou continuar criando porque só ter medo do amanhã não vai dar certo.  
 Agora pretendo pesquisar um pouco sobre API. Nos próximos dias vou terminar a parte de criação do BLOG no HTML.  
+
+## day04  
+
+Null  
+
+## day 05  
+
+Vamos iniciar mais um dia. Começar descobrindo como fazer as postagens no Blog.
