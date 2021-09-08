@@ -39,4 +39,7 @@ Vamos iniciar mais um dia. Começar descobrindo como fazer as postagens no Blog.
 Apesar de não ter feito nada no domingo e no feriado, não foi por estes motivos, mas por coincidência mesmo.  
 Bem, entender o que fazer com aqueles códigos da API xhelpers está muito além do meu conhecimento atual. Ainda não domino  JS suficiente.  
 Agora preciso apenas me concentrar no BLOG. Se nem isso eu conseguir terminar, como vou conseguir consumir API externa.  
-Vamos seguir então.
+Vamos seguir então.  
+Consegui deixar a div de postagem responsiva. Mas ela tem um espaço limitado.  
+Ainda gostaria de ter um botão e uma caixa de texto. Acho que esta parte agora é do JS. Não adianta esperar que o blogueiro fique editando o texto direto no HTML. Mesmo que a API resolva este problema para ter um cliente que faça esta edição, a idéia é que o autor possa editar tbm via navegador.  
+
