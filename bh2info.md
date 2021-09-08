@@ -32,4 +32,11 @@ Null
 
 ## day 05  
 
-Vamos iniciar mais um dia. Começar descobrindo como fazer as postagens no Blog.
+Vamos iniciar mais um dia. Começar descobrindo como fazer as postagens no Blog.  
+
+## day 06  
+
+Apesar de não ter feito nada no domingo e no feriado, não foi por estes motivos, mas por coincidência mesmo.  
+Bem, entender o que fazer com aqueles códigos da API xhelpers está muito além do meu conhecimento atual. Ainda não domino  JS suficiente.  
+Agora preciso apenas me concentrar no BLOG. Se nem isso eu conseguir terminar, como vou conseguir consumir API externa.  
+Vamos seguir então.
