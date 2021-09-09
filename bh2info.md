@@ -43,3 +43,14 @@ Vamos seguir então.
 Consegui deixar a div de postagem responsiva. Mas ela tem um espaço limitado.  
 Ainda gostaria de ter um botão e uma caixa de texto. Acho que esta parte agora é do JS. Não adianta esperar que o blogueiro fique editando o texto direto no HTML. Mesmo que a API resolva este problema para ter um cliente que faça esta edição, a idéia é que o autor possa editar tbm via navegador.  
 
+## day 07  
+
+Já rodei vários sites atrás de conteúdo que pudesse me auxiliar na construção do Blog.  
+A verdade é que nem tenho planejado como isso será feito e fico fazendo e desfazendo código, além de incorporar (copiar) muita coisa e precisar ficar adaptando. A maioria destas incorporações foram removidas. . .  
+Não tenho certeza se precisarei pegar a postagem do blogueiro e salvar em arquivo de texto (e como fazer isso) ou em html e carregar em um iframe depois. Ou devo salvar em HTML e deixar só um link com data na tela principal. Mas como criar HTML através da própria página?  
+Não adianta tapar o sol com a peneira. Sei que estou tentando pular etapas e isto está me deixando confuso e frustrado, além de me deixa mais distante de uma solução. Não tenho competência suficiente em JavaScript para entender os passos que devo dar. É como explicar física pra uma criança que não sabe matemática.  
+Sei que a esta altura do campeonato, dificilmente conseguirei produzir qualquer coisa mínimamente funcional, e estou falando só do BLOG, sem contar a API...  
+Portanto, vou voltar aos estudos básicos e retornarei aqui assim que souber pelo menos colocar um botão e coletar dados na página.  
+### 09/09/2021  
+
+--//--//--//--
